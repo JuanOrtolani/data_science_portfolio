@@ -11,18 +11,25 @@ Welcome to my Data Science Portfolio! This collection showcases my skills and ex
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Table of Contents
 
 ## - [Project 1: Buenos Aires Housing Price Prediction](https://github.com/JuanOrtolani/Buenos-Aires-Housing-Price-Prediction)
 The goal of this project is to develop a machine learning model that predicts property selling prices based on specific characteristics. By analyzing various features such as location, size, and amenities, the model will provide valuable insights into real estate pricing trends. This project highlights the potential of data-driven approaches to support buyers and sellers in making informed decisions in the real estate market.
   
-## - [Project 2: NLP-Sentiment-Analysis-of-Amazon-Reviews]
+## - Project 2: NLP-Sentiment-Analysis-of-Amazon-Reviews
 The objective of this project is to implement a machine learning model that predicts the rating assigned to an Amazon item based on user reviews. By analyzing the sentiments and keywords within these critiques, the model aims to accurately assess how consumers perceive products. This project demonstrates the power of machine learning in understanding consumer behavior, ultimately aiding businesses in enhancing their product offerings.
   - [Part I](https://github.com/JuanOrtolani/NLP-Sentiment-Analysis-of-Amazon-Reviews)
   - [Part II](https://github.com/JuanOrtolani/NLP-Sentiment-Analysis-of-Amazon-Reviews-Part-II-)
 
-## - [Project 3: EDA with SHAP Values](https://github.com/JuanOrtolani/eda_shap_values))
+## - [Project 3: EDA with SHAP Values](https://github.com/JuanOrtolani/eda_shap_values)
 This project involves Exploratory Data Analysis (EDA) combined with SHAP (SHapley Additive exPlanations) values to identify the most influential variables in the utilized model. By conducting EDA, I will uncover patterns and relationships within the data, while SHAP values will provide insights into how each feature contributes to the model's predictions. This approach not only enhances interpretability but also guides strategic decision-making by highlighting key factors that drive outcomes.
 
 ## Contact Information
